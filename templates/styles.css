@@ -1,0 +1,16 @@
+<style>    
+
+
+ .navbar{
+        background-color: #D0D3D4 !important;  
+ }
+ .navbar a{
+        display: inline-block !important;
+        color: black !important;
+        vertical-align:middle !important;
+
+ } 
+ .navbar a:hover{
+        background-color:white;
+}     
+</style>
